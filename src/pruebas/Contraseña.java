@@ -3,11 +3,7 @@ package pruebas;
 import javax.swing.JOptionPane;
 
 public class Contraseña {
-
-	public static void main(String[] args) {
-		solicitarContraseña();
-	}
-
+	
 	public static void solicitarContraseña() {
 
 		String clave = "azul";
